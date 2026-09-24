@@ -1,1 +1,3 @@
 Hello World
+I am learning how to use Git and vs code!
+
